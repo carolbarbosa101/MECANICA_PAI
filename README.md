@@ -2,7 +2,7 @@
 
 <br>
 
-<h2> Meu pai tem uma oficina mecânica e está faltando um website, para ser rápido estou utilizando um layout que jpa tenho no meu github e fazendo as devidas alterações</h2>
+<h2> Meu pai tem uma oficina mecânica e está faltando um website, para ser rápido estou utilizando um layout que já tenho no meu github e fazendo as devidas alterações</h2>
 <br>
 
 # 📷 Telas
